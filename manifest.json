@@ -1,6 +1,6 @@
 {
-  "short_name": "MeuApp",
-  "name": "Nome Completo do Meu Site",
+  "short_name": "DevAquiles",
+  "name": "Portfólio",
   "description": "Uma breve descrição do que seu site faz.",
   "icons": [
     {
@@ -15,7 +15,7 @@
     }
   ],
   "start_url": "/",
-  "background_color": "#ffffff",
+  "background_color": "#000000",
   "display": "standalone",
   "scope": "/",
   "theme_color": "#000000",
