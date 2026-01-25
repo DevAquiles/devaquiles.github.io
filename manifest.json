@@ -1,0 +1,30 @@
+{
+  "short_name": "MeuApp",
+  "name": "Nome Completo do Meu Site",
+  "description": "Uma breve descrição do que seu site faz.",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000",
+  "shortcuts": [
+    {
+      "name": "Abrir Promoções",
+      "short_name": "Promoções",
+      "url": "/promocoes",
+      "icons": [{ "src": "/icons/promo.png", "sizes": "192x192" }]
+    }
+  ]
+}
