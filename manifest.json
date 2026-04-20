@@ -1,21 +1,23 @@
 {
-  "short_name": "Meu Portfólio",
-  "name": "Portfólio",
-  "description": "Este é o meu Portfólio.",
+  "name": "Meu portofolio",
+  "short_name": "DevAquiles",
+  "description": "nada de mais",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
       "type": "image/png",
-      "sizes": "192x192"
+      "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
-  ],
-  "start_url": "index.html",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
